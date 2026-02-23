@@ -1,14 +1,14 @@
-🧬 A machine learning project for classifying breast cancer tumors as Malignant or Benign using supervised learning models
+**🧬A machine learning project for classifying breast cancer tumors as Malignant or Benign using supervised learning models**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This project applies multiple machine learning algorithms to classify tumor cells based on diagnostic features. After comparative evaluation, Support Vector Machine (SVM) demonstrated the best performance in terms of accuracy, precision, recall and F1-score.
 
-📌 Why This Project?
+**📌 Why This Project**
 
 Breast cancer remains one of the leading causes of cancer-related deaths worldwide. Early and accurate diagnosis significantly improves survival rates.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Perform exploratory data analysis (EDA) and Principal Component Analysis(PCA)
 Train multiple classification models
@@ -17,7 +17,7 @@ Validate robustness using 10-Fold Cross Validation
 Evaluate using standard performance metrics
 Identify the best-performing model
 
-🗂 Dataset
+**🗂 Dataset**
 
 This project uses the Breast Cancer Wisconsin Diagnostic Dataset. It consists of:
 
@@ -31,9 +31,9 @@ This project uses the Breast Cancer Wisconsin Diagnostic Dataset. It consists of
           
           Benign=0 (Negative)
 
-🔬 Project Workflow
+**🔬 Project Workflow**
 
-1️⃣ Data Preprocessing
+**1️⃣ Data Preprocessing**
 
 Checked missing values
 
@@ -42,7 +42,7 @@ Feature scaling using StandardScaler
 Train-test split
 
 
-2️⃣ Model Training
+**2️⃣ Model Training**
 
 Trained and compared multiple classifiers:
 
@@ -56,7 +56,7 @@ Random Forest
 
 Support Vector Machine (SVM)
 
-4️⃣ Robust Validation for all ML models
+**4️⃣ Robust Validation for all ML models**
 
 10-Fold Cross Validation
 
@@ -64,7 +64,7 @@ Performance comparison across folds
 
 Overfitting check
 
-📈 Evaluation Metrics Used
+**📈 Evaluation Metrics Used**
 
 Accuracy
 
@@ -80,9 +80,9 @@ Confusion Matrix (Best Scoring Model)
 
 Cross-Validation Mean ± Standard Deviation (Best Scoring Model)
 
-🏆 Best Model: Support Vector Machine (SVM)
+**🏆 Best Model: Support Vector Machine (SVM)**
 
-SVM achieved:
+**SVM achieved**:
 
 Highest accuracy
 
@@ -90,9 +90,9 @@ Strong generalization performance
 
 Stable cross-validation scores
 
-🔬 Validation Strategy
+**🔬 Validation Strategy**
 
-To ensure robustness:
+**To ensure robustness**:
 
 Train-Test Split
 
@@ -100,11 +100,11 @@ Train-Test Split
 
 Performance comparison across different ML models
 
-🔬 Key Scientific Takeaways
+**🔬 Key Scientific Takeaways**
 
 PCA visualization reveals that malignant samples are more widely distributed in principal component space as compared to benign samples. Appropriate feature scaling improved the performance of SVM towards classifying breast cancer data, yielding robust and generalizable predictive performance
 
-🛠 Tools used
+**🛠 Tools used**
 
 Python
 
