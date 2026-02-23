@@ -11,10 +11,15 @@ Breast cancer remains one of the leading causes of cancer-related deaths worldwi
 **🎯 Objectives**
 
 Perform exploratory data analysis (EDA) and Principal Component Analysis(PCA)
+
 Train multiple classification models
+
 Compare performance across models
+
 Validate robustness using 10-Fold Cross Validation
+
 Evaluate using standard performance metrics
+
 Identify the best-performing model
 
 **🗂 Dataset**
