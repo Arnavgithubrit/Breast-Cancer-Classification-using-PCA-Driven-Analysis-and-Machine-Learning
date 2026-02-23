@@ -1,4 +1,4 @@
-**🧬A machine learning project for classifying breast cancer tumors as Malignant or Benign using supervised learning models**
+**🧬A Machine Learning approach for classifying breast cancer tumors as Malignant or Benign using supervised learning models**
 
 **📌 Project Overview**
 
